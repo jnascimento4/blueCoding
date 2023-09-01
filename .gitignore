@@ -1,0 +1,12 @@
+target/
+/target/
+/target
+**/target/**
+*.orig
+**/**.versionsBackup
+
+# IntelliJ #
+.idea
+*.iml
+
+/.metadata/
